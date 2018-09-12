@@ -1,2 +1,2 @@
 # Himpunan
-aplikasi java himpunan
+aplikasi java himpunan Matematika Diskrit
